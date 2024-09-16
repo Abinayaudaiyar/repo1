@@ -1,1 +1,1 @@
-print('hello qspyder')
+print("hello qspyder")
